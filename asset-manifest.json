@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/diffDatas/static/css/main.37bd775d.css",
+    "main.js": "/diffDatas/static/js/main.5b2fdece.js",
+    "static/media/qrcode.svg": "/diffDatas/static/media/qrcode.dd5a4d6a0b7ec2e9cfbf19720b2fe2c7.svg",
+    "index.html": "/diffDatas/index.html",
+    "main.37bd775d.css.map": "/diffDatas/static/css/main.37bd775d.css.map",
+    "main.5b2fdece.js.map": "/diffDatas/static/js/main.5b2fdece.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37bd775d.css",
+    "static/js/main.5b2fdece.js"
+  ]
+}
